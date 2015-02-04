@@ -1,0 +1,28 @@
+
+webonise-desktop
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=14.04
+DISTRIB_CODENAME=trusty
+DISTRIB_DESCRIPTION="Ubuntu 14.04.1 LTS"
+NAME="Ubuntu"
+VERSION="14.04.1 LTS, Trusty Tahr"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="Ubuntu 14.04.1 LTS"
+VERSION_ID="14.04"
+HOME_URL="http://www.ubuntu.com/"
+SUPPORT_URL="http://help.ubuntu.com/"
+BUG_REPORT_URL="http://bugs.launchpad.net/ubuntu/"
+
+ 13:25:19 up  1:57,  2 users,  load average: 0.04, 0.11, 0.17
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+webonise :0       :0               12:47   ?xdm?   6:00   0.11s init --user
+webonise pts/3    :0               13:24    7.00s  0.04s  0.00s w
+webonise-new
+webonise-new sudo
+
+-rw-rw-r-- 1 webonise-new webonise-new     6 Feb  3 19:32 doc1_doc1_doc1_doc1.txt
+-rw-rw-r-- 1 webonise-new webonise-new     6 Feb  4 10:48 doc2_doc2_doc2_doc2.txt
+
+
+-rw-rw-r-- 1 webonise-new webonise-new     7 Feb  4 11:02 xampp_xampp_xampp_xampp.txt
